@@ -1,0 +1,5 @@
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmodul10_1302213062\TestAljabarLibraries\obj\Debug\net6.0\TestAljabarLibraries.csproj.AssemblyReference.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmodul10_1302213062\TestAljabarLibraries\obj\Debug\net6.0\TestAljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmodul10_1302213062\TestAljabarLibraries\obj\Debug\net6.0\TestAljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmodul10_1302213062\TestAljabarLibraries\obj\Debug\net6.0\TestAljabarLibraries.AssemblyInfo.cs
+C:\Users\Alvian Supriadi\OneDrive\Documents\Materi Kuliah\Sms 4 KPL\tpmodul10_1302213062\TestAljabarLibraries\obj\Debug\net6.0\TestAljabarLibraries.csproj.CoreCompileInputs.cache
